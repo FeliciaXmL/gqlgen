@@ -2,7 +2,7 @@
 linkTitle: Resolvers
 title: Resolving graphQL requests
 description: Different ways of binding graphQL requests to resolvers
-menu: { main: { parent: 'reference', weight: 10 } }
+menu: { main: { parent: 'reference', weight: 115 } }
 ---
 
 There are multiple ways that a graphQL type can be bound to a Go struct that allows for many usecases.
